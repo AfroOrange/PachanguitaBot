@@ -11,3 +11,6 @@ Bot de Telegram para organizar pachanguitas, añadir jugadores y métodos de pag
 ## DB 
 
 Guarda los resultados del histórico de las pachanguitas en Firebase
+
+
+![Project Preview](https://repository-images.githubusercontent.com/1014958299/3b5829e5-61eb-4d28-905f-af1ddf5893e0)
