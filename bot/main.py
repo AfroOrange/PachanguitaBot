@@ -12,8 +12,10 @@ def main():
             print("🔥 Initializing Firebase...")
             firebase_admin.initialize_app(cred)
             print("✅ Firebase initialized successfully.")
+            
         else:
             print("✅ Firebase already initialized.")
+            
         
         # Create and start the bot
         print("🤖 Starting Telegram bot...")
